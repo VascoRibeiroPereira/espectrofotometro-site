@@ -24,7 +24,6 @@ Os espectrofotómetros são equipamentos que nos permitem identificar e quantifi
 
 O nosso espectrofotómetro é constituído por uma fonte de radiação - LED, um suporte para a amostra em análise e um sensor - um smartphone!
 
-![teste](/assets/Espectrofotometro/1.jpg)
 
 <div><img src="/assets/Espectrofotometro/1.jpg" alt="Imagem de espectrofotómetro ligado" align="middle" width="350"></div>
 
