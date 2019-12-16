@@ -29,7 +29,7 @@ url: "https://vascoribeiropereira.github.io/espectrofotometro-site/" # the base 
 instagram_username: rvpdidatica
 facebook_username: RVPDidatica
 github_username:  VascoRibeiroPereira
-logo: {{ site.baseurl }}/assets/Logos/Logo_Colour.png
+logo: assets/Logos/Logo_Colour.png
 author: Vasco Ribeiro Pereira
 
 markdown:           kramdown
