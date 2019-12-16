@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rvpdidatica
 facebook_username: RVPDidatica
 github_username:  VascoRibeiroPereira
-logo: /assets/Logos/Logo_Colour.png
+logo: assets/Logos/Logo_Colour.png
 author: Vasco Ribeiro Pereira
 
 markdown:           kramdown
