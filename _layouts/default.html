@@ -29,8 +29,13 @@
         <a href="https://vascoribeiropereira.github.io/espectrofotometro-site/about" class="btn">Sobre</a>
         <a href="https://github.com/VascoRibeiroPereira/phone-spectrophotometer" class="btn">Ver no GitHub</a>
         <a href="geral@rvp-didatica.pt" class="btn">Contacto</a>
-
       {% endif %}
+      {% if site.github.is_not_project_page %}
+        <a href="https://github.com/VascoRibeiroPereira/phone-spectrophotometer" class="btn">Ver no GitHub</a>
+        <a href="geral@rvp-didatica.pt" class="btn">Contacto</a>
+      {% endif %}
+
+
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
