@@ -36,13 +36,13 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
-show_downloads: ""
+#show_downloads: ""
 
 # Build settings
 #theme: minima
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-clean-blog
-#theme: jekyll-theme-cayman
+#theme: jekyll-theme-clean-blog
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed

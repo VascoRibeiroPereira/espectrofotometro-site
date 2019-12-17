@@ -16,9 +16,9 @@ gem "jekyll-sitemap"
 
 #gem "minima", "~> 2.5"
 #gem "jekyll-theme-minimal", "~> 0.1.1"
-gem "jekyll-theme-clean-blog"
+#gem "jekyll-theme-clean-blog"
 #gem "jekyll-theme-hydeout", "~> 3.4"
-#gem "jekyll-theme-cayman"
+gem "jekyll-theme-cayman"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
