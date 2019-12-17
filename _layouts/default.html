@@ -27,6 +27,8 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="https://github.com/VascoRibeiroPereira/phone-spectrophotometer" class="btn">Ver no GitHub</a>
+        <a href="{{ site.about_url }}" class="btn">Sobre</a>
+
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
