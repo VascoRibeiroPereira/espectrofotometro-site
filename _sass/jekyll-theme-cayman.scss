@@ -34,26 +34,6 @@ body {
   color: $body-text-color;
 }
 
-
-  &:focus {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    height: auto;
-    width: auto;
-    background: invert($body-link-color);
-    outline: thick solid invert($body-link-color);
-  }
-
-a {
-  color: $body-link-color;
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
