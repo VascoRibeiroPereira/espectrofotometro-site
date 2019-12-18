@@ -25,7 +25,7 @@ description:
 
 
 baseurl: "/espectrofotometro-site" # the subpath of your site, e.g. /blog
-url: "https://vascoribeiropereira.github.io/espectrofotometro-site/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://vascoribeiropereira.github.io/espectrofotometro-site/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rvpdidatica
 facebook_username: RVPDidatica
 github_username:  VascoRibeiroPereira
