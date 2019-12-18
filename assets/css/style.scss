@@ -6,6 +6,8 @@ $header-heading-color: #FF000000;
 $header-bg-color: #FF000000;
 $header-bg-color-secondary: #FF000000;
 
+
+
 @import "{{ site.theme }}";
 
 
@@ -14,5 +16,5 @@ $header-bg-color-secondary: #FF000000;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/Espectrofotometro/3_Fotor.jpg);
+  @include background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/Espectrofotometro/3_Fotor.jpg);
 }
