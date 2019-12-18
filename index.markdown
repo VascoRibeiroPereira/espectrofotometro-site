@@ -46,4 +46,4 @@ Dinamizamos aulas de espectroscopia para turmas até 26 alunos, em grupos de 2 d
 - Em laboratório - Possibilidade de dinamizar uma análise com condições a combinar com o professor previamente.
 
 <p><img src="assets/varios/hr.jpg" alt="hr" width="750"></p>
-<p><img src="assets/Backgrounds/Background4.png" alt="imagem" width="550"></p>
+<p><img src="assets/Espectrofotometro/3_Fotor.jpg" alt="imagem do conjunto" width="450"></p>
