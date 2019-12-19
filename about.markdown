@@ -2,7 +2,7 @@
 layout: default
 #background: '/assets/Backgrounds/Background2.gif'   
 title: Sobre
-#permalink: /about/
+permalink: /about
 ---
 
 ## Projeto GitHub
