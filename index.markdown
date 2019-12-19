@@ -38,6 +38,12 @@ Com a nossa solução pode aprender/ensinar espectroscopia praticamente em qualq
 ### O que levamos até si
 Dinamizamos aulas de espectroscopia para turmas até 26 alunos, em grupos de 2 durante aproximadamente 90 minutos.
 
+#### Plano da aula
+Temos uma aula delineada especialmente para a transmissão dos conceitos fundamentais da espectroscopia e das características da luz mediante a sua fonte.
+- Demonstramos espectros de emissão de fontes de radiação diferentes
+- Abordamos o conceito de monocromaticidade em espectroscopia e a sua importância
+- Experimentamos com o nosso espectrofotómetro e comprovamos a lei de Lambert-Beer
+
 #### O que será necessário:
 
 - Smartphone com Sci Journal da Google instalado
