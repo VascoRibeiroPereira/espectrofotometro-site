@@ -21,7 +21,7 @@ A criação do espectrofotómetro RVP, a um preço acessível, que utiliza tecno
 
 # O Espectrofotómetro
 
-Os espectrofotómetros são equipamentos que nos permitem identificar e quantificar substâncias que absorvem radiação eletromagnética a um dado comprimento de onda.
+Os espectrofotómetros são equipamentos que nos permitem **identificar** e **quantificar** substâncias que absorvem radiação eletromagnética a um dado comprimento de onda.
 
 O nosso espectrofotómetro é constituído por uma fonte de radiação - LED, um suporte para a amostra em análise e um sensor - um smartphone!
 
